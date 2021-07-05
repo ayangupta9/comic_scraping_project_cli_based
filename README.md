@@ -9,4 +9,4 @@ The comic scraping project (*cli based*) provides functionality to search comics
 - Creative UI (*chalk, figlet, cli-progress*) to enhance user experience
 
 ##SCREENSHOT
-<img src="./screenshot.png",width="500"/>
+<img src="screenshot.png" alt="CLI of Comic Scraper" width="500"/>
